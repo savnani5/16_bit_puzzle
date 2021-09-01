@@ -8,4 +8,3 @@ used the column-wise notation.**
 1) Run the file *n\*n_bit_solver.py* to execute the code for the 16 bit_puzzle. It has the list of all 5 test_cases and it prints the shortest path using backtracking for each test case.
 2) Secondly, after running the python file in step 1, it will generate 5 output files (nodePath_i.txt) containing all the nodes from start to goal point for each test case in column-wise notation.
 
-Code files : [this link](https://drive.google.com/file/d/1X6eS6V8n_o-cJLHjV87ageG8xKd46kXh/view?usp=sharing)
